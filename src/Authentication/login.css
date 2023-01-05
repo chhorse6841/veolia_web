@@ -1,0 +1,35 @@
+.MuiInputBase-root{
+    margin-bottom: 12px !important;
+}
+.MuiLink-button {
+    background-color: #D31212!important;
+    color: #fff !important;
+    padding: 3px 14px !important;
+    border-radius: 10px !important;
+    height: 30px;
+    min-width: 140px;
+    margin-left: 17px;
+    float: right;
+}
+
+.MuiLink-button:hover,.MuiButton-root:hover{
+	text-decoration: none;
+}
+.MuiLink-button:focus,.MuiButton-root:focus{
+		box-shadow: none;
+		outline: none;
+		border: none;
+}
+.MuiInputBase-root {
+    overflow: hidden;
+    padding-left: 0;
+    padding-right: 0;
+}
+​
+.MuiInputBase-input {
+    padding: 5px 15px!important;
+}
+
+.MuiInputLabel-outlined.MuiInputLabel-marginDense {
+    transform: translate(8px, -6px) scale(0.7) !important;
+}

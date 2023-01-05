@@ -1,0 +1,25 @@
+.div-subtask {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.div-subtask-options {
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+  width: 150px;
+}
+
+.div-subtask-key {
+  font-size: 14px;
+}
+
+.div-subtask-status {
+  padding: 5px;
+  border-radius: 3px;
+  border: 2px solid black;
+  font-size: 12px;
+  margin-left: 10px;
+}

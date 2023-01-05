@@ -1,0 +1,92 @@
+.div-subtask-summary {
+  font-size: 12px !important;
+}
+
+.div-subtask-avatar {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: flex-end;
+  flex-direction: row;
+}
+
+.subtask-avatar {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.div-problems-container {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  max-width: 350px;
+}
+
+.div-problems-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div-problems-label {
+  display: flex;
+  font-weight: 600;
+}
+
+.div-problems-comment {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-submit {
+  margin-top: 10px;
+  font-weight: 600;
+  background: cornflowerblue;
+}
+
+.div-comment {
+  color: red;
+}
+
+.div-problems-comment {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.div-comments-container {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  min-width: 150px;
+  max-width: 500px;
+}
+
+.div-comment-container {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  background: rgba(238, 236, 236, 0.873);
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 4px;
+  margin-right: 10px;
+}
+
+.div-comment-user {
+  display: flex;
+  align-items: center;
+}
+
+.div-comment-user > div {
+  width: 32px;
+  height: 32px;
+}
+
+.div-comment-username {
+  font-size: medium;
+  margin-left: 10px;
+}
+
+.div-comment-text {
+  font-size: small;
+  padding-left: 50px;
+}

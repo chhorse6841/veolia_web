@@ -1,0 +1,32 @@
+/**
+ * Languages string, edit here to edit welcome messages button text...
+ * @type {string}
+ */
+export const LOADING = "Aan het laden...",
+    NO_IMAGES = "Geen afbeelding beschikbaar",
+    NO_RESULTS = "Geen resultaten.",
+    ADMIN_WELCOME = "Admin panel only for OTM",
+    CREATE_USER = "Maak een nieuwe gebruiker",
+    TEMP_PASS = "Tijdelijk wachtwoord",
+    PASSWORD_RULE_NOTICE = "Een wachtwoord moet een nummer en hoofdletter bevatten daarnaast moet het ook minstens acht tekens lang zijn.",
+    WACHTWOORD_LABEL = "Gelieve het tijdelijk wachtwoord in te typpen.",
+    CUSTOMER = "Customer.",
+    EMAIL_LABEL = "Email van het account:",
+    NAME_LABEL = "Email van het account:",
+    GO_BACK = "Ga Terug",
+    AUTOMATIC_SAVE = "Aanpassingen worden automatisch opgeslagen!",
+    REQUEST_ERROR = "Controleer je verbinding! Technische info: ",
+    NO_COMMENTS = "Geen opmerkingen.",
+    NO_DATE = "Geen datum beschikbaar",
+    RESULTS_OF = " resultaten van de ",
+    MORE = "Meer laden?",
+    CONTACT = "Contactpersoon",
+    PLACE = "Standplaats",
+    BRAND = "Merk wagen",
+    TYPE_CAR = "Type wagen",
+    STATUS = "Status",
+    CODE = "Voertuig code",
+    COMMENTS = "Opmerkingen",
+    DATE_DONE = "Datum afgewerkt",
+    RESET = "Reset",
+    EXPORT = "Export";

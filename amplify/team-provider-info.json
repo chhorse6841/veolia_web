@@ -1,0 +1,25 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-veolia-prod-35743-authRole",
+      "UnauthRoleArn": "arn:aws:iam::318517518828:role/amplify-veolia-prod-35743-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::318517518828:role/amplify-veolia-prod-35743-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-veolia-prod-35743-deployment",
+      "UnauthRoleName": "amplify-veolia-prod-35743-unauthRole",
+      "StackName": "amplify-veolia-prod-35743",
+      "StackId": "arn:aws:cloudformation:eu-central-1:318517518828:stack/amplify-veolia-prod-35743/c37ed1b0-ee77-11ec-a6f8-06e58ae2fbc2",
+      "AmplifyAppId": "d1zjvt6veiirlz"
+    },
+    "categories": {
+      "auth": {
+        "veolia131ba0e2": {
+          "userPoolId": "eu-central-1_lAHC39J8B",
+          "userPoolName": "veolia",
+          "webClientId": "36tfnkrbm78qd5dpfvl4m1hbva",
+          "nativeClientId": "10qpkmevl9udrl3qdf64pkjcmc"
+        }
+      }
+    }
+  }
+}

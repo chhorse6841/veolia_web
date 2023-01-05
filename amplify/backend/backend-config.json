@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "veolia131ba0e2": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
