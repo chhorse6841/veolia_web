@@ -777,7 +777,7 @@ const componentWithProps = connect(
 const composeComponent = compose(
   withProps({
     googleMapURL:
-      "https://maps.googleapis.com/maps/api/js?key=AIzaSyBhiqcP_bAdHxn2PIilDhj76W7rHhQBmwE&v=3.exp&libraries=geometry,drawing,places",
+      "https://maps.googleapis.com/maps/api/js?key=[key]=3.exp&libraries=geometry,drawing,places",
     loadingElement: <div style={{ height: `100%` }} className="section1" />,
     containerElement: <div className="section2" />,
     mapElement: <div style={{ height: `100%` }} className="section3" />,
